@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 heiheiheiheiheiehieheiehei---->master
+=======
+hahahhahahhahhah hhahah----->fei
+>>>>>>> fei
